@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercicio10_v1",
+            "request": "launch",
+            "mainClass": "Exercicio10_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio9_v2",
+            "request": "launch",
+            "mainClass": "Exercicio9_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio9_v1",
+            "request": "launch",
+            "mainClass": "Exercicio9_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio8_v2",
+            "request": "launch",
+            "mainClass": "Exercicio8_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio8_v1",
+            "request": "launch",
+            "mainClass": "Exercicio8_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio7_v2",
+            "request": "launch",
+            "mainClass": "Exercicio7_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio7_v1",
+            "request": "launch",
+            "mainClass": "Exercicio7_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio6_v2",
+            "request": "launch",
+            "mainClass": "Exercicio6_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio5_v2",
+            "request": "launch",
+            "mainClass": "Exercicio5_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio5_v1",
+            "request": "launch",
+            "mainClass": "Exercicio5_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio4_v2",
+            "request": "launch",
+            "mainClass": "Exercicio4_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio4_v1",
+            "request": "launch",
+            "mainClass": "Exercicio4_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio3_v2",
+            "request": "launch",
+            "mainClass": "Exercicio3_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio3_v1",
+            "request": "launch",
+            "mainClass": "Exercicio3_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2_v2",
+            "request": "launch",
+            "mainClass": "Exercicio2_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio2_v1",
+            "request": "launch",
+            "mainClass": "Exercicio2_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio6_v1",
+            "request": "launch",
+            "mainClass": "Exercicio6_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio10_v2",
+            "request": "launch",
+            "mainClass": "Exercicio10_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_v1",
+            "request": "launch",
+            "mainClass": "Ex1_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exerciciov1",
+            "request": "launch",
+            "mainClass": "Exerciciov1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1_v2",
+            "request": "launch",
+            "mainClass": "Exercicio1_v2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio1_v1",
+            "request": "launch",
+            "mainClass": "Exercicio1_v1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
             "name": "Desafio",
             "request": "launch",
             "mainClass": "Desafio",
