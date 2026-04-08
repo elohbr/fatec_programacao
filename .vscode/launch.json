@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "Desafio",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo1",
+            "request": "launch",
+            "mainClass": "Exemplo1",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo2",
+            "request": "launch",
+            "mainClass": "Exemplo2",
+            "projectName": "fatec_programacao_9711a7ea"
+        },
+        {
+            "type": "java",
             "name": "Calculadora",
             "request": "launch",
             "mainClass": "Calculadora",
